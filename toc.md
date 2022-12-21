@@ -21,9 +21,11 @@ Gene Callahan
 1. Berkeley on Passive Obedience
 1. Jacobitism
 1. The American Revolution
+1. Burke on the Revolution in France
 1. Paine
 1. Jefferson
 1. The Whiskey Rebellion
 1. New England's Threat to Secede
+1. Thoreau and Civil Disobedience
 1. The American Civil War
 1. Lincoln
