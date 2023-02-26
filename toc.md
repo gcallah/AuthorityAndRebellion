@@ -1,5 +1,6 @@
-# Authority and Rebellion
-## Anglo-American Thought on Political Obligation, from the Magna Carta to the American Civil War
+# Obedience and Rebellion
+## Authority in Anglo-American Thought, from the Magna Carta 
+to the Capitol Riot
 
 Gene Callahan
 
@@ -9,7 +10,7 @@ Gene Callahan
 1. The Revolt of the Barons
 1. The War of the Roses
 1. The Reformation
-1. Shakespeare' Rebels and Usurpers
+1. Shakespeare's Rebels and Usurpers
 1. Coke
 1. Hooker
 1. The English Civil War
@@ -27,7 +28,13 @@ Gene Callahan
 1. Burke on the Revolution in France
 1. The Whiskey Rebellion
 1. New England's Threat to Secede
-1. Thoreau and Civil Disobedience
+1. [Thoreau and Civil Disobedience](chaps/thoreau.md)
 1. Southern Secessionism
 1. The American Civil War
 1. Lincoln
+1. Anarchists on Both Sides of the Pond
+1. World War I and Conscientious Objectors
+1. The Civil Rights Movement
+1. Modern Anarchism
+
+## [Bibliography](chaps/biblio.md)
