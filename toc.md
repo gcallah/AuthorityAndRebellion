@@ -1,6 +1,5 @@
 # Obedience and Rebellion
-## Authority in Anglo-American Thought, from the Magna Carta 
-to the Capitol Riot
+## Authority in Anglo-American Thought, from the Magna Carta to the Capitol Riot
 
 Gene Callahan
 
@@ -18,7 +17,8 @@ Gene Callahan
 1. Milton's Rebellious Angels
 1. Hobbes on the Duty to Obey
 1. The Glorious Revolution
-1. Locke's Defense of a Right to Rebel
+1. Robert Filmer's Case for Absolute Monarchy
+1. Locke's Answer to Filmer
 1. Berkeley on Passive Obedience
 1. Jacobitism
 1. William Paley on the Duty of Submission
