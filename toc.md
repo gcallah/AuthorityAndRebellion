@@ -23,6 +23,7 @@ Gene Callahan
 1. Berkeley on Passive Obedience
 1. Jacobitism
 1. William Paley on the Duty of Submission
+1. David Hume
 1. [Paine on Common Sense](chaps/paine.md)
 1. The American Revolution
 1. Jefferson
