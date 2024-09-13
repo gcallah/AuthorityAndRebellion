@@ -6,6 +6,7 @@ Gene Callahan
 ## Table of Contents
 
 1. Introduction
+1. The Anglo-Saxon and Norman Background
 1. The Revolt of the Barons
 1. The War of the Roses
 1. The Reformation
@@ -23,8 +24,8 @@ Gene Callahan
 1. Jacobitism
 1. William Paley on the Duty of Submission
 1. [Paine on Common Sense](chaps/paine.md)
-1. Jefferson
 1. The American Revolution
+1. Jefferson
 1. Burke on the Revolution in France
 1. The Whiskey Rebellion
 1. New England's Threat to Secede
@@ -35,6 +36,9 @@ Gene Callahan
 1. Anarchists on Both Sides of the Pond
 1. World War I and Conscientious Objectors
 1. The Civil Rights Movement
-1. Modern Anarchism
+1. Michael Oakeshott on Authority
+1. Nozick's Justification of the Minimal State
+1. Public Reason as a Criterion for Legitimate Authority
+1. Modern Anarchism, Left and Right
 
 ## [Bibliography](chaps/biblio.md)
