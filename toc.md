@@ -5,7 +5,7 @@ Gene Callahan
 
 ## Table of Contents
 
-1. Introduction
+1. [Introduction](chaps/intro.md)
 1. The Anglo-Saxon and Norman Background
 1. The Revolt of the Barons
 1. The War of the Roses
