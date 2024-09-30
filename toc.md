@@ -1,7 +1,7 @@
 # Obedience and Rebellion
 ## Authority in Anglo-American Thought, from the Magna Carta to the Capitol Riot
 
-Gene Callahan
+Editors: Gene Callahan and Leye Komolafe
 
 ## Table of Contents
 
