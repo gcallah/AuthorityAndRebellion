@@ -16,7 +16,5 @@ salutary.
 In this book, therefore, attempts would be made to trace the historical and intellectual development of authority and rebellion in Anglo-American political thought from the writings of numerous intellectual figures whose works are relevant to the discourse. Genealogical accounts of state formation, the development of authority, and the justification or non-justification of rebellion will also be thoroughly interrogated within the Anglo-American political thought in philosophy. 
 
 
-![image](https://github.com/user-attachments/assets/2bfd7b59-ad3e-4cac-aa94-ee3a96cdee51)
-
 
 
